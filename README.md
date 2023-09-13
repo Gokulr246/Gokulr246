@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">Eager and enthusiastic DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **AWS,Kubernetes**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **Devops**
-
 - 📫 How to reach me **gokulkrish5022@gmail.com**
 
-- ⚡ Fun fact **I learn a lot**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
