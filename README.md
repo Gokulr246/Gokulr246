@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **gokulkrish5022@gmail.com**
+- 📫 Reach me **gokulkrish5022@gmail.com**
 
 - ⚡ Fact about me **A man of focus, commitment and sheer-will**
 
