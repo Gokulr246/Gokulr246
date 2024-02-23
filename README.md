@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,Kubernetes**
+- 🌱 I’m currently working as **DevOps engineer**
 
-- 👯 I’m looking to collaborate on **Cloud native projects**
+- 👯 I’m looking to collaborate on **DevOps projects**
 
 - 💬 Ask me about **DevOps**
 
 - 📫 Reach me **gokulkrish5022@gmail.com**
-
-- ⚡ Fact about me **A man of focus, commitment and sheer-will**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
